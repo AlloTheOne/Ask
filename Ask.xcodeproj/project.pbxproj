@@ -82,7 +82,7 @@
 		62F61A482909119100725A2B /* AskUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AskUITests.swift; sourceTree = "<group>"; };
 		62F61A4A2909119100725A2B /* AskUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AskUITestsLaunchTests.swift; sourceTree = "<group>"; };
 		62F61A572909238200725A2B /* testView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = testView.swift; sourceTree = "<group>"; };
-		62F61A59290923E400725A2B /* homePage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = homePage.swift; path = Ask/homePage.swift; sourceTree = "<group>"; };
+		62F61A59290923E400725A2B /* homePage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = homePage.swift; sourceTree = "<group>"; };
 		62F61A5B290924D900725A2B /* SwiftUIView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftUIView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -114,22 +114,6 @@
 		62F61A1C2909118F00725A2B = {
 			isa = PBXGroup;
 			children = (
-				62A8849129158AF8003DBE09 /* SplashScreenView.swift */,
-				62A8848F291460AD003DBE09 /* SectionContent1.swift */,
-				62A8848D2914607E003DBE09 /* SwiftUIView_Shoug1.swift */,
-				62A8848929139C9A003DBE09 /* userQuestions.swift */,
-				625C665A291261B300F431EC /* welcomePage.swift */,
-				625C665229124C8700F431EC /* questionanswered.swift */,
-				625C66502912430D00F431EC /* favorites.swift */,
-				625C664E2911B6C100F431EC /* Post.swift */,
-				01608264290E6D8300E74076 /* sign up.swift */,
-				0141A8A4290A71FC00CE7A06 /* Afnan log in.swift */,
-				625C6644291112F600F431EC /* profilePage.swift */,
-				625C66402910560F00F431EC /* tabView.swift */,
-				62F61A5B290924D900725A2B /* SwiftUIView.swift */,
-				62F61A59290923E400725A2B /* homePage.swift */,
-				625C665629124EA800F431EC /* SwiftUIView Shoug.swift */,
-				625C665429124E7E00F431EC /* SwiftUIView2Shoug.swift */,
 				62F61A272909118F00725A2B /* Ask */,
 				62F61A3D2909119100725A2B /* AskTests */,
 				62F61A472909119100725A2B /* AskUITests */,
@@ -150,6 +134,22 @@
 		62F61A272909118F00725A2B /* Ask */ = {
 			isa = PBXGroup;
 			children = (
+				62A8849129158AF8003DBE09 /* SplashScreenView.swift */,
+				62A8848F291460AD003DBE09 /* SectionContent1.swift */,
+				62A8848D2914607E003DBE09 /* SwiftUIView_Shoug1.swift */,
+				62A8848929139C9A003DBE09 /* userQuestions.swift */,
+				625C665A291261B300F431EC /* welcomePage.swift */,
+				625C665229124C8700F431EC /* questionanswered.swift */,
+				625C66502912430D00F431EC /* favorites.swift */,
+				625C664E2911B6C100F431EC /* Post.swift */,
+				01608264290E6D8300E74076 /* sign up.swift */,
+				0141A8A4290A71FC00CE7A06 /* Afnan log in.swift */,
+				625C6644291112F600F431EC /* profilePage.swift */,
+				625C66402910560F00F431EC /* tabView.swift */,
+				62F61A5B290924D900725A2B /* SwiftUIView.swift */,
+				62F61A59290923E400725A2B /* homePage.swift */,
+				625C665629124EA800F431EC /* SwiftUIView Shoug.swift */,
+				625C665429124E7E00F431EC /* SwiftUIView2Shoug.swift */,
 				625C6642291064F100F431EC /* infoView.swift */,
 				62F61A282909118F00725A2B /* AskApp.swift */,
 				62F61A2A2909118F00725A2B /* ContentView.swift */,
@@ -498,7 +498,7 @@
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_ASSET_PATHS = "\"Ask/Preview Content\"";
-				DEVELOPMENT_TEAM = TSQFGQSG85;
+				DEVELOPMENT_TEAM = 686H3J2SCC;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
@@ -528,7 +528,7 @@
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_ASSET_PATHS = "\"Ask/Preview Content\"";
-				DEVELOPMENT_TEAM = TSQFGQSG85;
+				DEVELOPMENT_TEAM = 686H3J2SCC;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
