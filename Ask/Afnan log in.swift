@@ -70,7 +70,7 @@ struct Afnan_log_in: View {
                         .padding(2)
                 }
                 NavigationLink(destination:
-                                    tabView() ){
+                                    homePage() ){
                     Text(" الدخول كزائر") 
                         //isPresentedFullScreenCover = true
                     

@@ -102,7 +102,7 @@ struct sign_up: View {
                         
                 } .padding()
                 NavigationLink(destination:
-                                    tabView() ){
+                                    homePage() ){
                     
                     Text(" الدخول كزائر")
                         
